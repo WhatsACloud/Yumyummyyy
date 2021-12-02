@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yumyummyyy
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning web development
 - am mediocre in python
 - happy to learn more lower level programming languages :D
 
