@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Yumyummyyy
-- 🌱 I’m currently learning web development
-- am mediocre in python
-- happy to learn more lower level programming languages :D
+- 🌱 I’m currently learning c++ with SDL2 (and Unreal Engine too)
+- am mediocre in python && javascript
+- happy to learn more programming
+- I use arch btw
 
 <!---
 Yumyummyyy/Yumyummyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
