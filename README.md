@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yumyummyyy
-- 🌱 I’m currently learning c++ with SDL2 (and Unreal Engine too)
+- 🌱 I’m currently (going to) learn machine learning! 
 - am mediocre in python && javascript
 - happy to learn more programming
 - I use arch btw
